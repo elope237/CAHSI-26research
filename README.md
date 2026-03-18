@@ -8,7 +8,5 @@ Grover's Search: [![Open in Colab](https://colab.research.google.com/assets/cola
 
 Quantum Fourier Transform: [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/elope237/CAHSI-26research/blob/main/Jupyter_Notebooks/QFT.ipynb)
 
-
-
-Quantum Amplitude Estimation:
+Quantum Amplitude Estimation: [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/elope237/CAHSI-26research/blob/main/Jupyter_Notebooks/QAE.ipynb)
 
